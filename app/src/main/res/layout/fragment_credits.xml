@@ -1,0 +1,111 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.shabeeb.hashim.gogeekcet.AboutFragment"
+
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Credits"
+            android:textSize="25dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/textView4"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorPrimary"
+            android:layout_marginBottom="10dp"/>
+        <TableLayout android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            >
+            <TableRow >
+                <TextView
+                    android:text="Head of Department : "
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:text="Dr Jiji CV"
+                    />
+            </TableRow>
+            <TableRow >
+                <TextView
+                    android:text="Department Rep : "
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:text="Sreekiran A R"
+                    />
+            </TableRow>
+            <TableRow >
+                <TextView
+                    android:text="App Development : "
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:text="Shabeeb Hashim"
+                    />
+            </TableRow>
+            <TableRow >
+                <TextView
+                    android:text="Convenor : "
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:text="Aneesh Jayakumaran"
+                    />
+            </TableRow>
+            <TableRow >
+                <TextView
+                    android:text="Cordinators : "
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:text="Vijay Bobby\nAnandakrishnan Alayil\nVaisakh M N"
+                    />
+            </TableRow>
+            <TableRow >
+                <TextView
+                    android:text="Design &amp; Logo: "
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:text="Arathy S R\nSagar Krishna\nVishnu Mangottasheri\nArunjith Kayavil\nShalaka Satheesh\nBhavana Hemachandran\nSwaraj K S" />
+            </TableRow>
+            <TableRow >
+                <TextView
+                    android:text="Store Renovation : "
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:text="Aathira Elizabeth Binu\nAswathy T K\nSruthy A N\nRamdas Krishnakumar\nJiddhu Kevin R S\nSayooj Toms\nTony Andrews\nVarsha V\nAiswarya A S"
+                    />
+            </TableRow>
+            <TableRow >
+                <TextView
+                    android:text="Special Mention : "
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:text="Anjana S (CAT,Trivandrum)\nBharath Nandakumar"
+                    />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+
+</ScrollView>

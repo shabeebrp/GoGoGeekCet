@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.1_1ba7fcbb6ef1e6a88dc7c9fe2e96607b18aa8478.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_1a76fdae529f76f093900282423ec2f0632c17b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e1b8b6800378d5ed50ff75117b582f223c6fc5fc">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36d76a77156687bb4ca0121c5953236b6b0def3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_1ba7fcbb6ef1e6a88dc7c9fe2e96607b18aa8478/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7bf1013259c40c5d7220711cfcf40d89620ea652/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.1_1a76fdae529f76f093900282423ec2f0632c17b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_204fb6a9fffdf80f0fc7211e97a7923713c96c5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.1_582c52e0c9d797f316fdc92be25002c9521c0b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/support-annotations-24.2.1_204fb6a9fffdf80f0fc7211e97a7923713c96c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.1_1c995812db36ef9ffe6463ac6e8f9711f95ee5bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_70874e5ce18812c37b1481fefa7d106f542c6ab1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_70874e5ce18812c37b1481fefa7d106f542c6ab1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_1c995812db36ef9ffe6463ac6e8f9711f95ee5bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_ec703f86f3a1b8c74841670863db50ab6c12ecd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_582c52e0c9d797f316fdc92be25002c9521c0b7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/okhttp-3.2.0_64293f546053fe6f196e8627857deee2923c6d0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9a180622ea21b5f0c62c1930a18e489f5ad9d386">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5debc05c7d928138ffd5cda7ab4a49abcd914248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_90de6c8e80e061c9df784d882ae36a90e6bd53ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.1_ec703f86f3a1b8c74841670863db50ab6c12ecd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_7bf1013259c40c5d7220711cfcf40d89620ea652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/gson-2.7_90de6c8e80e061c9df784d882ae36a90e6bd53ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_89daa87afc7c4b7f7a328326b110cd9f6f0561ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_89daa87afc7c4b7f7a328326b110cd9f6f0561ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_45b926276d909acf8b2dc6c2368e112b3b01f154/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/okio-1.6.0_45b926276d909acf8b2dc6c2368e112b3b01f154.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_64293f546053fe6f196e8627857deee2923c6d0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_9ee34f13d1f47df453d63c9ab4a82026584f4eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_3365e62192d759e74e9866d56fa8ace64eec2932/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_23f15ce282cb99ba2dc671a99680ffe1db06aae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_23f15ce282cb99ba2dc671a99680ffe1db06aae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_842c5f7f56f2abd6ba80b960ed7feddf8b76b4b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_842c5f7f56f2abd6ba80b960ed7feddf8b76b4b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.amitshekhar.android/android-networking/0.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2181055be8a630f727d41d4dc15adfad283474bb">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.amitshekhar.android-android-networking-0.3.0_9349f356c035cf05de981b1701d8c5b24a294020/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-24.2.1_e3192c85d3d1c8d70d4c24e5edc0e5189a976cae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_d96df7478b3fb696db321870eb53019a63b060ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.amitshekhar.android/android-networking/0.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2181055be8a630f727d41d4dc15adfad283474bb">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.amitshekhar.android-android-networking-0.3.0_9349f356c035cf05de981b1701d8c5b24a294020.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_e3192c85d3d1c8d70d4c24e5edc0e5189a976cae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_f0203d7970b3a6a227bdae4ba7b26d5694229ab7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.1_d96df7478b3fb696db321870eb53019a63b060ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.1_3365e62192d759e74e9866d56fa8ace64eec2932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.1_f0203d7970b3a6a227bdae4ba7b26d5694229ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-design-24.2.1_9ee34f13d1f47df453d63c9ab4a82026584f4eff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_cdee3ab7b34eb03a83ca42a4f4ea30d81689c2f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_8b4ce80fd17a8c1152fd08dbc67a6577c499b5ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.1_cdee3ab7b34eb03a83ca42a4f4ea30d81689c2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shabeeb/GoGeekCet/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/shabeeb/GoGeekCet/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.1_8b4ce80fd17a8c1152fd08dbc67a6577c499b5ae.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1091345210097",
+    "firebase_url": "https://gogeekcet.firebaseio.com",
+    "project_id": "gogeekcet",
+    "storage_bucket": "gogeekcet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091345210097:android:33eb04fc46cf5dd1",
+        "android_client_info": {
+          "package_name": "com.example.shabeeb.gogeekcet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091345210097-kh5t4lgd2t7125l8r2rkqngfnec3jcl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shabeeb.gogeekcet",
+            "certificate_hash": "38552c0da0f2900e1a94d3cc1eec8bfa4613ae9d"
+          }
+        },
+        {
+          "client_id": "1091345210097-f37h657jd4l49sglci2rfu57b6ugbmu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMITDAPuDTtove5zWU8jjFpI3KOz2zn9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091345210097-f37h657jd4l49sglci2rfu57b6ugbmu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

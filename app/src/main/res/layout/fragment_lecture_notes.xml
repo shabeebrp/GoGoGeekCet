@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.shabeeb.hashim.gogeekcet.LectureNotesFragment"
+    android:padding="20dp">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+
+        android:id="@+id/blahLL"
+        >
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:text="@string/year_amp_branch"
+            android:layout_weight="1"
+            android:textSize="20dp"
+
+
+            ></TextView>
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawSelectorOnTop="true"
+            android:id="@+id/spBranch"
+            android:entries="@array/branch"
+
+            ></Spinner>
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawSelectorOnTop="true"
+            android:entries="@array/sem"
+            android:id="@+id/spSem"
+            ></Spinner>
+
+
+    </LinearLayout>
+
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:drawableLeft="@android:drawable/ic_menu_search"
+        android:id="@+id/note_btn"
+        app:theme="@style/MyButton"
+        android:gravity="center"
+        android:layout_below="@id/blahLL"
+        android:layout_centerHorizontal="true"
+
+        />
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/notes_LV"
+        android:layout_below="@id/note_btn"
+        ></ListView>
+
+
+</RelativeLayout>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">gOgeeK</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_hint">Name</string>
+    <string name="user_phone">Phone</string>
+    <string name="year_amp_branch"><![CDATA[Year & Branch:]]></string>
+    <string name="branch_and_sem"><![CDATA[Branch & Year:]]></string>
+    <string-array name="year">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>PG</item>
+    </string-array>
+    <string-array name="branch">
+        <item>EC</item>
+        <item>AE</item>
+
+    </string-array>
+    <string-array name="branch_full">
+        <item>EC</item>
+        <item>AE</item>
+        <item>EE</item>
+        <item>ME</item>
+        <item>CE</item>
+        <item>CS</item>
+    </string-array>
+
+    <string-array name="sem">
+        <item>S1S2</item>
+        <item>S3</item>
+        <item>S4</item>
+        <item>S5</item>
+        <item>S6</item>
+        <item>S7</item>
+        <item>S8</item>
+    </string-array>
+</resources>
